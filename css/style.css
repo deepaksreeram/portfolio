@@ -45,15 +45,6 @@ body {
     align-self: center;
 }
 
-.banner_wrapper .banner-content h2::after {
-    content: '';
-    width: 60%;
-    height: 0.125rem;
-    top: 50%;
-    left: 25%;
-    background: black;
-    overflow-x: hidden;
-}
 
 h2{
     font-weight: 500;
